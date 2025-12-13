@@ -260,5 +260,39 @@
     },
     "tags": [],
     "hash": "sha256:ebbbdf5843c4b1614db3285e729c4160cd90494244dc54887e1f32367381ed41"
+  },
+  "17": {
+    "url": "https://raw.githubusercontent.com/easyscience/data/refs/heads/master/diffraction/ed-17.xye",
+    "kind": "experiment",
+    "description": "Si, McStas simulation, DMSC Summer School 2025",
+    "diffrn_source": {
+      "facility": "...",
+      "beamline": "..."
+    },
+    "expt_type": {
+      "sample_form": "powder",
+      "beam_mode": "time-of-flight",
+      "radiation_probe": "neutron",
+      "scattering_type": "bragg"
+    },
+    "tags": [],
+    "hash": "sha256:b9d6ea9e186dce9f37b174f7c04fbefd04c72a962de9814e12c865533fbb9a94"
+  },
+  "18": {
+    "url": "https://raw.githubusercontent.com/easyscience/data/refs/heads/master/diffraction/ed-18.xye",
+    "kind": "experiment",
+    "description": "La0.5Ba0.5CoO3 + Si, McStas simulation, DMSC Summer School 2025",
+    "diffrn_source": {
+      "facility": "...",
+      "beamline": "..."
+    },
+    "expt_type": {
+      "sample_form": "powder",
+      "beam_mode": "time-of-flight",
+      "radiation_probe": "neutron",
+      "scattering_type": "bragg"
+    },
+    "tags": [],
+    "hash": "sha256:fcc6dc02e8a3d42705413ebd45731874390510b676b70ce98d020873caf78278"
   }
 }
