@@ -4,7 +4,7 @@
     "kind": "sample_model",
     "description": "La0.5Ba0.5CoO3 (crystal structure)",
     "tags": [],
-    "hash": "sha256:..."
+    "hash": "sha256:a8a8970e26c4a932098d73502f720bc2092ea6585bc527c5c35c531a8b05d9ae"
   },
   "2": {
     "url": "https://raw.githubusercontent.com/easyscience/data/refs/heads/master/diffraction/ed-2.cif",
@@ -21,7 +21,7 @@
       "scattering_type": "bragg"
     },
     "tags": [],
-    "hash": "sha256:..."
+    "hash": "sha256:f13f1eccb87567201053c9a91fec08b772f418030b349ebd0aaf5076bbbd12cd"
   },
   "3": {
     "url": "https://raw.githubusercontent.com/easyscience/data/refs/heads/master/diffraction/ed-3.xye",
@@ -38,7 +38,7 @@
       "scattering_type": "bragg"
     },
     "tags": [],
-    "hash": "sha256:..."
+    "hash": "sha256:70dba3f642b394f0e7e7802a8637e0e287164562671993ee0701b813c902e360"
   },
   "4": {
     "url": "https://raw.githubusercontent.com/easyscience/data/refs/heads/master/diffraction/ed-4.gr",
@@ -55,7 +55,7 @@
       "scattering_type": "total"
     },
     "tags": [],
-    "hash": "sha256:..."
+    "hash": "sha256:31afed7e01d650d4d205a95201ada28c0c1ba0b965fe648aa864165e506130f0"
   },
   "5": {
     "url": "https://raw.githubusercontent.com/easyscience/data/refs/heads/master/diffraction/ed-5.gr",
@@ -72,7 +72,7 @@
       "scattering_type": "total"
     },
     "tags": [],
-    "hash": "sha256:..."
+    "hash": "sha256:1791c130254127567e94ea8b3af1e6880554d9d9fa33a2a891bc5f4a21310aaf"
   },
   "6": {
     "url": "https://raw.githubusercontent.com/easyscience/data/refs/heads/master/diffraction/ed-6.gr",
@@ -89,7 +89,7 @@
       "scattering_type": "total"
     },
     "tags": [],
-    "hash": "sha256:..."
+    "hash": "sha256:aa5f3f7f39565ac8f733c89cdebbb01302fa087a2b8e027014837d7321f9277c"
   },
   "7": {
     "url": "https://raw.githubusercontent.com/easyscience/data/refs/heads/master/diffraction/ed-7.xye",
@@ -106,7 +106,7 @@
       "scattering_type": "bragg"
     },
     "tags": [],
-    "hash": "sha256:..."
+    "hash": "sha256:b798ebf3ad0b845e27d3f3ff95a5497899e60b7bee7d21771d06925a98127eab"
   },
   "8": {
     "url": "https://raw.githubusercontent.com/easyscience/data/refs/heads/master/diffraction/ed-8.xye",
@@ -123,7 +123,7 @@
       "scattering_type": "bragg"
     },
     "tags": [],
-    "hash": "sha256:..."
+    "hash": "sha256:0aeab4909604e14c0b0263a7ba5c926b7fca9f8e4223421f4672ec641fc0c915"
   },
   "9": {
     "url": "https://raw.githubusercontent.com/easyscience/data/refs/heads/master/diffraction/ed-9.xys",
@@ -140,7 +140,7 @@
       "scattering_type": "bragg"
     },
     "tags": [],
-    "hash": "sha256:..."
+    "hash": "sha256:bcbb403374e705e2864d48b2dc803778252da9320ac5dc33bce4e94a225ef9dc"
   },
   "10": {
     "url": "https://raw.githubusercontent.com/easyscience/data/refs/heads/master/diffraction/ed-10.xys",
@@ -157,7 +157,7 @@
       "scattering_type": "bragg"
     },
     "tags": [],
-    "hash": "sha256:..."
+    "hash": "sha256:e24493511795e5dc3390ad055ea43d346ef39c63dab68349a9deba00dfde2671"
   },
   "11": {
     "url": "https://raw.githubusercontent.com/easyscience/data/refs/heads/master/diffraction/ed-11.xye",
@@ -174,7 +174,7 @@
       "scattering_type": "bragg"
     },
     "tags": [],
-    "hash": "sha256:..."
+    "hash": "sha256:6aaaf3318eb83e85adaa11082d7b49249aa85f593f0e8be85e33ce3c231ca4ef"
   },
   "12": {
     "url": "https://raw.githubusercontent.com/easyscience/data/refs/heads/master/diffraction/ed-12.xye",
@@ -191,7 +191,7 @@
       "scattering_type": "bragg"
     },
     "tags": [],
-    "hash": "sha256:..."
+    "hash": "sha256:72ff3c5902cc9e87b7a9a6f4d87081e6367f1477a7958914e3d89c87ddc164e9"
   },
   "13": {
     "url": "https://raw.githubusercontent.com/easyscience/data/refs/heads/master/diffraction/ed-13.dat",
@@ -208,7 +208,7 @@
       "scattering_type": "bragg"
     },
     "tags": [],
-    "hash": "sha256:..."
+    "hash": "sha256:9f18f221e300fba0be9b4da55ce8377653e903f3c466de77cb70f43d07897092"
   },
   "14": {
     "url": "https://raw.githubusercontent.com/easyscience/data/refs/heads/master/diffraction/ed-14.dat",
@@ -225,7 +225,7 @@
       "scattering_type": "bragg"
     },
     "tags": [],
-    "hash": "sha256:..."
+    "hash": "sha256:7604db5d5d9966016b6a3aec51ef5991e5339c5455f72d87fe9ce7a504b0b155"
   },
   "15": {
     "url": "https://raw.githubusercontent.com/easyscience/data/refs/heads/master/diffraction/ed-15.dat",
@@ -242,7 +242,7 @@
       "scattering_type": "bragg"
     },
     "tags": [],
-    "hash": "sha256:..."
+    "hash": "sha256:f6cf576a6d33d7f4f074df1cac473914c80f81209c3ab753ecf480cdb2db0d50"
   },
   "16": {
     "url": "https://raw.githubusercontent.com/easyscience/data/refs/heads/master/diffraction/ed-16.dat",
@@ -259,6 +259,6 @@
       "scattering_type": "bragg"
     },
     "tags": [],
-    "hash": "sha256:..."
+    "hash": "sha256:ebbbdf5843c4b1614db3285e729c4160cd90494244dc54887e1f32367381ed41"
   }
 }
